@@ -6,7 +6,7 @@ use-site-title: true
 ---
 
 ---
-<span style="font-family:Papyrus; font-size:1.2em;">Anomaly Detection in Polyp Images using Generative Adversarial Networks</span>
+<span style="font-family:Papyrus; font-size:1.2em;">Anomaly Detection in Polyp Images using Generative Adversarial Network</span>
 * in progress
 
 ---
@@ -16,7 +16,7 @@ use-site-title: true
 
 ---
 
-<span style="font-family:Papyrus; font-size:1.2em;">Hand Gesture Detection and Recognition in Videos</span>
+<span style="font-family:Papyrus; font-size:1.2em;">Hand Gesture Detection and Recognition in News Videos</span>
 * [github](https://github.com/abhinav-2912/Gesture-Detection)
 
 ---
